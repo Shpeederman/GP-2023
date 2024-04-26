@@ -11,6 +11,6 @@ config_version=5
 [application]
 
 config/name="Game Design Examples"
-run/main_scene="res://sequencer.tscn"
+run/main_scene="res://SPEENstrument.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
