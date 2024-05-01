@@ -8,7 +8,6 @@ resource_name = "PitchShift"
 
 [sub_resource type="AudioEffectDistortion" id="AudioEffectDistortion_nxj4c"]
 resource_name = "Distortion"
-drive = 1.0
 
 [resource]
 bus/0/effect/0/effect = SubResource("AudioEffectReverb_jagyb")
